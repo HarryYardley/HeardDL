@@ -4,8 +4,8 @@ HeardDL is a program which converts your spoken text into tasks using NLP&ML.
 This program covers fullstack mobile and web development (frontend, backend, UI/UX design), STT, NLP processing, and ML classification while using the following technologies:
 
 **Libraries**: whisper, spacy, numpy, matplotlib, pandas, sklearn, -
-Languages: Python, SQL, HTML/CSS, Kotlin, and Javascript
-Frameworks: -
+**Languages**: Python, SQL, HTML/CSS, Kotlin, and Javascript
+**Frameworks**: -
 Tools: VS Code
 Version Control: Git
 APIs: -
