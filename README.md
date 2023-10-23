@@ -25,3 +25,4 @@ Flux Academy - UI/UX Design, Fontend Design
 Future Mojo - NLP
 Patrick Loeber - TensorFlow and PyTorch
 TensorFlow - TensorFlow
+3Brown1Blue - ML
